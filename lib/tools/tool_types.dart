@@ -1,0 +1,21 @@
+/// Enum defining all available tool types in the application
+enum ToolType {
+  select,
+  pan,
+  line,
+  rectangle,
+  circle,
+  arc,
+  polyline,
+  ellipse,
+  spline,
+  delete,
+  move,
+  copy,
+  rotate,
+  scale,
+  mirror,
+  offset,
+  trim,
+  extend,
+}
